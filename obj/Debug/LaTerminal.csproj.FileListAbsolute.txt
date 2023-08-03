@@ -1,0 +1,8 @@
+C:\Users\Hidden Blade\source\repos\LaTerminal\obj\Debug\LaTerminal.csproj.AssemblyReference.cache
+C:\Users\Hidden Blade\source\repos\LaTerminal\obj\Debug\LaTerminal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hidden Blade\source\repos\LaTerminal\obj\Debug\LaTerminal.csproj.CoreCompileInputs.cache
+C:\Users\Hidden Blade\source\repos\LaTerminal\bin\Debug\LaTerminal.exe.config
+C:\Users\Hidden Blade\source\repos\LaTerminal\bin\Debug\LaTerminal.exe
+C:\Users\Hidden Blade\source\repos\LaTerminal\bin\Debug\LaTerminal.pdb
+C:\Users\Hidden Blade\source\repos\LaTerminal\obj\Debug\LaTerminal.exe
+C:\Users\Hidden Blade\source\repos\LaTerminal\obj\Debug\LaTerminal.pdb
